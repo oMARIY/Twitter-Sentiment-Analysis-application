@@ -11,10 +11,10 @@ There are a few things that might go wrong in the application if not configured 
 twitter authentication which can be obtained from creating a twitter application in the following link - https://apps.twitter.com/
 There are four pieces of information you need for the authentication:
 
-  Consumer Key
-  Consumer Secret 
-  Access Token 
-  Access Token Secret
+  Consumer Key,
+  Consumer Secret, 
+  Access Token, 
+  Access Token Secret.
   
 These four are currently available in the program, with my authentication details being there. However they will expires soon.
 So you may need to change them, when necessary. Once the authentication has been configured you are good to go. The application
