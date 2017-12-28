@@ -27,3 +27,10 @@ the more negative the tweet is. So if you were to get a score of 3, then you can
 your own type of data analysis on it, if you want.
 
 APPLICATION SCREENSHOT
+![alt tag](https://github.com/oMARIY/Twitter-Sentiment-Analysis-application/blob/master/Screenshots/Screen%20Shot%202017-12-28%20at%2021.44.49.png)
+
+SEARCHING TWEETS
+![alt tag](https://github.com/oMARIY/Twitter-Sentiment-Analysis-application/blob/master/Screenshots/Screen%20Shot%202017-12-28%20at%2021.46.20.png)
+
+SEARCHING TRENDS
+![alt tag](https://github.com/oMARIY/Twitter-Sentiment-Analysis-application/blob/master/Screenshots/Screen%20Shot%202017-12-28%20at%2021.57.42.png)
